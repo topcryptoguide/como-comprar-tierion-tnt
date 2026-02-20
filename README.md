@@ -1,1 +1,3 @@
-# como-comprar-tierion-tnt
+[**Cómo comprar Tierion (TNT)**](https://topcryptoguide.com/como-comprar-tierion-tnt/)
+
+Este artículo explica **cómo comprar Tierion (TNT)**, el token asociado al proyecto Tierion, que permite **anclar y verificar datos en blockchain** para garantizar su integridad y trazabilidad. Para adquirir TNT normalmente necesitas **crear una cuenta en un exchange confiable donde esté listado** (como Binance, KuCoin o Gate.io), **verificar tu identidad** si corresponde y **depositar fondos** ya sea en fiat o en stablecoins como USDT antes de ejecutar la compra desde el mercado spot. Algunas plataformas también ofrecen la opción de **comprar TNT con tarjeta de crédito/débito** si está disponible. Tras adquirir los tokens, se recomienda **moverlos a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales.
